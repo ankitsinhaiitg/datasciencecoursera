@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera_Project_Repo
+This repo was made as a part of course project for coursera Data Science Toolbox course.
